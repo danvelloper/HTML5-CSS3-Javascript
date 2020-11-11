@@ -53,4 +53,4 @@ A *internet* nasceu durante o período de *guerra fria*, em _1949_, criada para 
 
 Com essa divisão, foi criada então a famosa **INTERNET**.
 
-Veja como cresceu a internet [clicando aqui](https://www.subimarinecablemap.com/)
+Veja como cresceu a internet [clicando aqui](https://www.submarinecablemap.com/)
