@@ -1,44 +1,44 @@
 # Projeto-Site
 
-* Repositórios Públicos
+**Repositórios Públicos**
 
-1 - github.com/gustavoguanabara
-2 - gustavoguanabara.github.io
-
-_____________________________________________________________________________________________________________
-
-* MATERIAIS DE APOIO
-
-1 - Deve Web (CEV)
-2 - Referência MDN
-3 - Referência W3C
-4 - WHATWG living Standard
-5 - W3Schools 
+* github.com/gustavoguanabara
+* gustavoguanabara.github.io
 
 _____________________________________________________________________________________________________________
 
-* LIVROS
+**MATERIAIS DE APOIO**
 
-1- HTML5 (Mark Pilgrim)
-2- CSS (Eric Meyer)
-3- Flexbox in CSS (Estelle Weyl)
-4- Grid Layout in CSS (Eric Meyer)
-5- HTML5 & CSS3 (Elizabeth C., Bruce H.)
-6- HTML5 & CSS3 (Jon Duckett)
-7-HTML e CSS3 (Elizabeth R., Eric F.)
-8-Construa seu próprio site (Nate C. Kim)
-9- HTML5 (Maurício Samy Silva)
-10- CSS3 ( Maurício Samy Silva)
-11- HTM e CSS3 (Maurício Samy Silva)
-12- CSS Grid Layout (Maurício Samy S.)
-13- Curso de Design gráfico (David D., ..)
-14- Essencial de desing gráfico (Senac)
-15- A psicologia das cores
-16- Pensar com tipos
-17-Flexbox Explained (Jorge M. Steph. G)
-18-CSS GRID Explained (Jorge M. Ste. G)
-19-HTML5 (Bill Sanders)
-20-CSS ( Eric Meyer )
+* Deve Web (CEV)
+* Referência MDN
+* Referência W3C
+* WHATWG living Standard
+** W3Schools 
+
+_____________________________________________________________________________________________________________
+
+**LIVROS**
+
+* HTML5 (Mark Pilgrim)
+* CSS (Eric Meyer)
+* Flexbox in CSS (Estelle Weyl)
+* Grid Layout in CSS (Eric Meyer)
+* HTML5 & CSS3 (Elizabeth C., Bruce H.)
+* HTML5 & CSS3 (Jon Duckett)
+* HTML e CSS3 (Elizabeth R., Eric F.)
+* Construa seu próprio site (Nate C. Kim)
+* HTML5 (Maurício Samy Silva)
+* CSS3 ( Maurício Samy Silva)
+* HTM e CSS3 (Maurício Samy Silva)
+* CSS Grid Layout (Maurício Samy S.)
+* Curso de Design gráfico (David D., ..)
+* Essencial de desing gráfico (Senac)
+* A psicologia das cores
+* Pensar com tipos
+* Flexbox Explained (Jorge M. Steph. G)
+* CSS GRID Explained (Jorge M. Ste. G)
+* HTML5 (Bill Sanders)
+* CSS ( Eric Meyer )
 
 _____________________________________________________________________________________________________________
 
