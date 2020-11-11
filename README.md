@@ -2,8 +2,8 @@
 
 **Repositórios Públicos**
 
-* [GitGub](github.com/gustavoguanabara)
-* [GitHub Page](gustavoguanabara.github.io)
+* [GitGub](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
+* [GitHub Page](https://gustavoguanabara.github.io)
 
 _____________________________________________________________________________________________________________
 
