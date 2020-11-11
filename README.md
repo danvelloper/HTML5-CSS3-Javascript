@@ -2,8 +2,8 @@
 
 **Repositórios Públicos**
 
-* (github.com/gustavoguanabara)
-* (gustavoguanabara.github.io)
+* [GitGub](github.com/gustavoguanabara)
+* [GitHub Page](gustavoguanabara.github.io)
 
 _____________________________________________________________________________________________________________
 
