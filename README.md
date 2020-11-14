@@ -1,9 +1,4 @@
-# Curso HTML5, CSS3
-
-**Repositórios Públicos**
-
-* [GitGub](https://github.com/gustavoguanabara/html-css/tree/master/aulas-pdf)
-* [GitHub Page](https://gustavoguanabara.github.io)
+# HTML5, CSS3 e Javascript
 
 _____________________________________________________________________________________________________________
 
